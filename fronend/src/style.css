@@ -1,0 +1,17 @@
+.canvas {
+    border: solid 1px black;
+    background: #32a852;
+}
+
+html {
+    font-family: 'Staatliches', cursive;
+}
+
+.main-view {
+    display: flex;
+}
+
+.output {
+    padding-left: 20px;
+    font-family: 'Arial'
+}
